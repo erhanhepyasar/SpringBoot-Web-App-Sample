@@ -1,4 +1,4 @@
-package com.bharath.vendor;
+package com.erhan.vendor;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
