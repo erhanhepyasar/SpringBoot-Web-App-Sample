@@ -1,4 +1,4 @@
-Sample Spring Boot Application
+Spring Boot Application
 ---------------------------------------------
 
 Dependencies: Web, JPA, MySQL
